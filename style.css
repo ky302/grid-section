@@ -78,7 +78,7 @@ img {
 }
 
 .grid-container {
-  margin: 50px 100px;
+  margin: 50px 20px;
   display: grid;
   grid-template-areas:
     "card1 card1 card1 card1 card1 card1 card1 card1 card2 card2 card3 card3"
@@ -124,7 +124,7 @@ img {
   }
 
   .grid-container {
-    margin: 50px 100px;
+    margin: 50px 10px;
     display: grid;
     grid-template-areas: "card1 card1 card1 card2" "card4 card5 card5 card5" "card3 card3 card3 card3";
   }
@@ -154,7 +154,7 @@ img {
     background-size: 90px;
   }
   .grid-container {
-    margin: 50px 100px;
+    margin: 50px 10px;
     display: grid;
     grid-template-areas: "card1" "card2" "card4" "card5" "card3";
   }
